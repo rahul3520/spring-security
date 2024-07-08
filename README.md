@@ -5,3 +5,5 @@ which is a POST request with body
     "email":"user@gmail.com",
     "password":"password"
 }
+
+Reference video - https://www.youtube.com/watch?v=b9O9NI-RJ3o 
